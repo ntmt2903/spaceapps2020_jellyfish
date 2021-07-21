@@ -1,3 +1,5 @@
+@author: baoannguyen
+
 Map.setCenter(106.8517, 10.533, 13);
 
 var image_2020 = ee.Image('LANDSAT/LC08/C01/T1_SR/LC08_124053_20200115');
